@@ -1,2 +1,2 @@
 # movies-as-code
-part of former moviesascode.net ported to git
+former moviesascode.net revisited and carried on git

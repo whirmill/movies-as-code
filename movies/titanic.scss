@@ -1,0 +1,7 @@
+@mixin iceberg {
+    position: static;
+}
+
+#titanic {
+    @include iceberg;
+}
