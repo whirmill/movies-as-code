@@ -1,2 +1,2 @@
 # movies-as-code
-former moviesascode.net revisited and carried on git
+former moviesascode.net sources revisited and carried on git

@@ -7,3 +7,5 @@ while ($bad){
 var rules =[];
 rules[0] = "You do not talk about Fight Club";
 rules[1] = rules[0];
+
+?>
